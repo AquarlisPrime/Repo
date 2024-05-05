@@ -10,11 +10,11 @@ The primary goal will be to develop effective forecasting models that can reliab
 
 #### 3. Objectives
 
-- **Objective 1**: Develop and compare different forecasting methods tailored for airline passenger data.
+Objective 1: Develop and compare different forecasting methods tailored for airline passenger data.
   
-- **Objective 2**: Evaluate the impact of external factors on future passenger demand predictions.
+Objective 2: Evaluate the impact of external factors on future passenger demand predictions.
   
-- **Objective 3**: Contribute insights and practical applications to advance forecasting in the aviation industry.
+Objective 3: Contribute insights and practical applications to advance forecasting in the aviation industry.
 
 #### 4. Literature Review
 
@@ -22,11 +22,11 @@ A review will be conducted on existing studies in time series forecasting in avi
 
 #### 5. Methodology
 
-- **Data Collection**: Historical airline passenger data will be gathered from reliable sources.
+Data Collection: Historical airline passenger data will be gathered from reliable sources.
   
-- **Model Development**: Forecasting models such as ARIMA and LSTM will be implemented for comparison.
+Model Development: Forecasting models such as ARIMA and LSTM will be implemented for comparison.
   
-- **Evaluation**: Model performance will be assessed using standard metrics like MAE and RMSE.
+Evaluation : Model performance will be assessed using standard metrics like MAE and RMSE.
 
 #### 6. Code Development
 
