@@ -1,45 +1,38 @@
 ### Dissertation Proposal: Time Series Forecasting for Airline Passengers
 
-#### 1. Introduction
+1. **Introduction**
+   This dissertation proposal aims to develop effective time series forecasting models for predicting airline passenger counts, focusing on enhancing operational efficiency in the aviation industry.
 
-This dissertation will aim to enhance the accuracy of predicting airline passenger demand through advanced time series forecasting techniques.
+2. **Research Aim**
+   The primary goal is to assess the performance of the LightGBM algorithm in forecasting airline passenger counts accurately and efficiently.
 
-#### 2. Research Aim
+3. **Objectives**
+   - **Objective 1:** Implement and evaluate LightGBM for forecasting airline passenger counts.
+   - **Objective 2:** Compare LightGBM's performance with traditional forecasting methods like ARIMA and LSTM.
+   - **Objective 3:** Investigate the impact of data preprocessing techniques on forecasting accuracy.
 
-The primary goal will be to develop effective forecasting models that can reliably predict future airline passenger traffic.
+4. **Literature Review**
+   Review existing studies on time series forecasting in aviation to identify gaps and opportunities for improvement.
 
-#### 3. Objectives
+5. **Methodology**
+   - **Data Collection:** Gather historical airline passenger data from reliable sources.
+   - **Model Development:** Utilize LightGBM and other models for forecasting.
+   - **Evaluation:** Assess model performance using RMSE and other metrics.
 
-Objective 1: Develop and compare different forecasting methods tailored for airline passenger data.
-  
-Objective 2: Evaluate the impact of external factors on future passenger demand predictions.
-  
-Objective 3: Contribute insights and practical applications to advance forecasting in the aviation industry.
+6. **Code Development**
+   Employ Python with libraries like pandas, numpy, and LightGBM for model implementation and evaluation.
 
-#### 4. Literature Review
+7. **Evaluation and Validation**
+   Conduct rigorous experiments to validate model accuracy. Present findings using impactful visualizations.
 
-A review will be conducted on existing studies in time series forecasting in aviation, highlighting gaps and opportunities for improvement.
+8. **Timeline and Resources**
+   Create a timeline for data collection, model development, and dissertation completion. Identify necessary computing resources.
 
-#### 5. Methodology
+9. **Expected Contributions**
+   Provide practical insights into leveraging LightGBM for accurate airline passenger forecasting, aiming to optimize operational planning.
 
-Data Collection: Historical airline passenger data will be gathered from reliable sources.
-  
-Model Development: Forecasting models such as ARIMA and LSTM will be implemented for comparison.
-  
-Evaluation : Model performance will be assessed using standard metrics like MAE and RMSE.
 
-#### 6. Code Development
+This proposal outlines a straightforward approach to evaluate LightGBM for forecasting airline passenger counts. 
 
-Python will be used for coding, leveraging libraries like pandas and TensorFlow for model implementation.
-
-#### 7. Evaluation and Validation
-
-Rigorous experiments will be conducted to validate model accuracy and effectiveness in predicting future passenger demand.
-
-#### 8. Timeline and Resources
-
-A timeline for data collection, model development, and dissertation completion will be outlined, along with identification of necessary resources.
-
-#### 9. Expected Contributions
-
-Insights into improving airline passenger demand forecasting will be offered, benefiting operational efficiency in the aviation sector.
+**Conclusion:**
+The RMSE (Root Mean Squared Error) obtained using LightGBM for forecasting airline passenger counts is approximately 110.58, demonstrating promising results for future research and practical applications.
